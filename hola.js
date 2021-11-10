@@ -1,3 +1,3 @@
-const adder = (a,b)={
-	log(a+b)
+const adder = (a,b)=>{
+	console.log(a+b);
 }
